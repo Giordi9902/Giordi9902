@@ -1,4 +1,4 @@
-# 👋 Hi, my name's Giorgio
+![Header](./github-header-image_v2.png)
 
 🔭 I’m currently a Computer Science student <br> 🌱 I’m currently learning DSA and C++ <br> 🐧 Enthusiast
 

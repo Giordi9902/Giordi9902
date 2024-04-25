@@ -1,4 +1,4 @@
-## 👋 Hello there, my name's Giorgio but you can call me Gio
+## 👋 Hello there, I'm Giorgio
 
 <!--
 **Giordi9902/Giordi9902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

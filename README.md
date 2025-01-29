@@ -1,6 +1,6 @@
 ![Header](./github-header-image_v2.png)
 # ❓ About me:
-👨‍🎓 I’m currently a Computer Science student <br> 🌱 I’m currently learning DSA and C++ <br> 📚 Math enthusiast <br> 🐧 Enjoyer <br> 👨‍💻 Interested in operating systems, databases and security
+👨‍🎓 I’m currently a Computer Science student <br> 🌱 I’m currently learning Android and Kotlin <br> 📚 Math enthusiast <br> 🐧 Enjoyer <br> 👨‍💻 Interested in operating systems, databases and security
 
 # 💻 Tech Stack:
 

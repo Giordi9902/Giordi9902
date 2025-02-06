@@ -33,7 +33,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Operating Systems**
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=fot-the-badge)](#)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](#)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white&style=for-the-badge)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](#)

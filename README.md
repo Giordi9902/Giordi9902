@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Android** and **Kotlin**
 - 📚 Passionate about **Mathematics**
 - 🐧 **Linux Enthusiast**
-- 👨‍💻 Interested in **Operating Systems**, **Databases**, and **Software Engineering**
+- 👨‍💻 Interested in **Operating Systems**, **Databases** and **Software Engineering**
 
 ---
 

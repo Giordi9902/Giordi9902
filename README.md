@@ -59,9 +59,6 @@
 ### **Markup Languages**
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
----
-
-
 ## 📫 Connect with Me
 Feel free to reach out for collaborations or discussions on projects related to my interests!
 
